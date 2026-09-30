@@ -239,3 +239,18 @@ https://stream.ottlive.co.in/newscapitalmarket/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBusiness.in@HD" tvg-name="Zee Business" group-title="Business",Zee Business (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBusiness.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise Free Movies" group-title="Movies",FilmRise Free Movies (1080p)
+https://filmrise-eng-movies-1-us.tubi.video/filmrise-eng-movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cineverse" group-title="Movies",Cineverse Movies
+https://cineverse-cineverse-1.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shout! Factory TV" group-title="Movies",Shout! Factory TV
+https://shoutfactory-shoutfactory-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dust Sci-Fi" group-title="Movies",DUST Sci-Fi Channel
+https://dust-dust-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" group-title="Movies",MovieSphere by Lionsgate
+https://lionsgate-moviesphere-1-us.samsung.wurl.tv/playlist.m3u8
